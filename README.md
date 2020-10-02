@@ -1,1 +1,2 @@
-# handWrittingRecog
+# Hand Writing Recognition
+In this project hand written words are recognized form image given. Used machine learning and image processing, to be specific Tensorflow and Opencv. Single word image can be taken as input and the output will be plain text. The word in the image can be in any inclination or with minimal noise, the image processing part will recreate the image correctly and then send the image to recognize. The accuracy of the learning processing came out as: 95.5%
