@@ -3,7 +3,7 @@ In this project hand written words are recognized form image given. Used machine
 ## Input ##
 ![Input](start2.jpeg)
 ## Processign Steps ##
-![Processing](processing.jpg)
+![Processing](process.jpg)
 ## Processing outputs ##
 
 ## Model ##
