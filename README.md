@@ -5,6 +5,6 @@ In this project hand written words are recognized form image given. Used machine
 ## Processign Steps ##
 ![Processing](process.jpg)
 ## Processing outputs ##
-
+![Output](output.jpg)
 ## Model ##
 A custom model has been used. The model for this training is attached with this project as "model7".
